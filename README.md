@@ -6,4 +6,7 @@ This is a portfolio of the projects that I have beeen a part of. I have extensiv
 
 My portfolio links to my GitHub repos.
 
+To view my portfolio:
+https://updated-resume.herokuapp.com/
+
 # portfolio
